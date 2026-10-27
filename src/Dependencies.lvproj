@@ -18,6 +18,7 @@
 		<Item Name="KeyboardSerializer.vi" Type="VI" URL="../KeyboardSerializer.vi"/>
 		<Item Name="KeyPressLUT.vi" Type="VI" URL="../KeyPressLUT.vi"/>
 		<Item Name="KeyType.ctl" Type="VI" URL="../KeyType.ctl"/>
+		<Item Name="Load Replay Samples.vi" Type="VI" URL="../Load Replay Samples.vi"/>
 		<Item Name="LoadKeyboardLUT.vi" Type="VI" URL="../LoadKeyboardLUT.vi"/>
 		<Item Name="LoadMouseLUT.vi" Type="VI" URL="../LoadMouseLUT.vi"/>
 		<Item Name="MouseLUT.vi" Type="VI" URL="../MouseLUT.vi"/>
