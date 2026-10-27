@@ -23,6 +23,7 @@
 		<Item Name="LoadMouseLUT.vi" Type="VI" URL="../LoadMouseLUT.vi"/>
 		<Item Name="MouseLUT.vi" Type="VI" URL="../MouseLUT.vi"/>
 		<Item Name="MouseLUTSelector.ctl" Type="VI" URL="../MouseLUTSelector.ctl"/>
+		<Item Name="Path to Captures.vi" Type="VI" URL="../Path to Captures.vi"/>
 		<Item Name="SerializedKeyPress.ctl" Type="VI" URL="../SerializedKeyPress.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
@@ -53,7 +54,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Program Files/NI/LVAddons/lbaplugins/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D4FA2B90-B218-46DA-B643-48A35FC35A8D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2CAE7901-EC8B-4A1F-B16E-946084FC8265}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/KeyboardAndMouseDataAcquisition.ctl</Property>
@@ -63,6 +64,14 @@
 				<Property Name="Source[10].itemID" Type="Ref">/My Computer/SerializedKeyPress.ctl</Property>
 				<Property Name="Source[10].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[10].type" Type="Str">VI</Property>
+				<Property Name="Source[11].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[11].itemID" Type="Ref">/My Computer/Load Replay Samples.vi</Property>
+				<Property Name="Source[11].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[11].type" Type="Str">VI</Property>
+				<Property Name="Source[12].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[12].itemID" Type="Ref">/My Computer/Path to Captures.vi</Property>
+				<Property Name="Source[12].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[12].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/KeyboardLUTSelector.ctl</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
@@ -95,7 +104,7 @@
 				<Property Name="Source[9].itemID" Type="Ref">/My Computer/MouseLUTSelector.ctl</Property>
 				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[9].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">11</Property>
+				<Property Name="SourceCount" Type="Int">13</Property>
 			</Item>
 		</Item>
 	</Item>
