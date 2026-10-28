@@ -4,9 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">637566976</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="global.vi" Type="VI" URL="../global.vi"/>
 	<Item Name="KeyboardAndMouseDataAcquisition.ctl" Type="VI" URL="../KeyboardAndMouseDataAcquisition.ctl"/>
 	<Item Name="KeyType.ctl" Type="VI" URL="../KeyType.ctl"/>
 	<Item Name="Mode.ctl" Type="VI" URL="../Mode.ctl"/>
+	<Item Name="Record Frame Mouse Metadata Argument--cluster.ctl" Type="VI" URL="../Record Frame Mouse Metadata Argument--cluster.ctl"/>
 	<Item Name="RecordMode.ctl" Type="VI" URL="../RecordMode.ctl"/>
 	<Item Name="ReplayMode.ctl" Type="VI" URL="../ReplayMode.ctl"/>
 </Library>
