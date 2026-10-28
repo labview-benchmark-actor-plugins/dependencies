@@ -16,6 +16,7 @@
 		<Item Name="dependencies" Type="Folder">
 			<Item Name="dependencies.lvlib" Type="Library" URL="../dependencies.lvlib"/>
 		</Item>
+		<Item Name="_Dependencies.lvproj" Type="Document" URL="../_Dependencies.lvproj"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Dependencies" Type="Source Distribution">
@@ -36,7 +37,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/ProgramData/LabVIEW Benchmark Actor Plugins/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{11CD2D74-18FE-4F91-862E-AE13A0DD428C}</Property>
 				<Property Name="Bld_removeVIObj" Type="Int">2</Property>
-				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.build" Type="Int">13</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/ProgramData/LabVIEW Benchmark Actor Plugins/NI_AB_PROJECTNAME</Property>
@@ -45,7 +46,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/ProgramData/LabVIEW Benchmark Actor Plugins/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{29DCDF8B-1B53-4FA1-A8EE-593EC79F78F7}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9CE71F73-CC9B-4BE7-B497-59E1F14B4FD6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/KeyboardAndMouseDataAcquisition.ctl</Property>
@@ -58,11 +59,10 @@
 				<Property Name="Source[3].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">Library</Property>
-				<Property Name="Source[4].Container.applyPrefix" Type="Bool">true</Property>
-				<Property Name="Source[4].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']</Property>
-				<Property Name="Source[4].newName" Type="Str">sd_</Property>
-				<Property Name="Source[4].type" Type="Str">Container</Property>
+				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/My Computer/_Dependencies.lvproj</Property>
+				<Property Name="Source[4].newName" Type="Str">Dependencies.lvproj</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="SourceCount" Type="Int">5</Property>
 			</Item>
 		</Item>
