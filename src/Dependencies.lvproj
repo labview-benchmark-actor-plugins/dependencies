@@ -38,7 +38,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/lba-plugins-temp</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{11CD2D74-18FE-4F91-862E-AE13A0DD428C}</Property>
 				<Property Name="Bld_removeVIObj" Type="Int">2</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/lba-plugins-temp</Property>
@@ -75,7 +75,7 @@
 				<Property Name="Source[14].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[14].type" Type="Str">VI</Property>
 				<Property Name="Source[15].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[15].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/Replay Loop Business Logic.vi</Property>
+				<Property Name="Source[15].itemID" Type="Ref"></Property>
 				<Property Name="Source[15].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[15].type" Type="Str">VI</Property>
 				<Property Name="Source[16].destinationIndex" Type="Int">0</Property>
