@@ -35,19 +35,19 @@
 				<Property Name="Bld_excludedDirectory[5]" Type="Path">user.lib</Property>
 				<Property Name="Bld_excludedDirectory[5].pathType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/lba-plugins-temp</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/lba-plugins-temp/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{11CD2D74-18FE-4F91-862E-AE13A0DD428C}</Property>
 				<Property Name="Bld_removeVIObj" Type="Int">2</Property>
-				<Property Name="Bld_version.build" Type="Int">19</Property>
+				<Property Name="Bld_version.build" Type="Int">24</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/lba-plugins-temp</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/lba-plugins-temp/NI_AB_PROJECTNAME</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/C/Users/Public/Documents/lba-plugins-temp/data</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/Public/Documents/lba-plugins-temp/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F0FF418B-AF63-4C3A-8EC1-37FD26AAC1B7}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{350A6E95-7854-4464-825D-7D857AA56009}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib</Property>
@@ -67,7 +67,7 @@
 				<Property Name="Source[12].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[12].type" Type="Str">VI</Property>
 				<Property Name="Source[13].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[13].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/Record Frame Mouse Metadata Argument--cluster.ctl</Property>
+				<Property Name="Source[13].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/RecordFrameMouseMetadataArgument--cluster.ctl</Property>
 				<Property Name="Source[13].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[13].type" Type="Str">VI</Property>
 				<Property Name="Source[14].destinationIndex" Type="Int">0</Property>
@@ -75,21 +75,17 @@
 				<Property Name="Source[14].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[14].type" Type="Str">VI</Property>
 				<Property Name="Source[15].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[15].itemID" Type="Ref"></Property>
+				<Property Name="Source[15].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/ReplayMode.ctl</Property>
 				<Property Name="Source[15].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[15].type" Type="Str">VI</Property>
 				<Property Name="Source[16].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[16].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/ReplayMode.ctl</Property>
+				<Property Name="Source[16].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/SerializedKeyPress.ctl</Property>
 				<Property Name="Source[16].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[16].type" Type="Str">VI</Property>
 				<Property Name="Source[17].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[17].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/SerializedKeyPress.ctl</Property>
+				<Property Name="Source[17].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/User Events Metadata.ctl</Property>
 				<Property Name="Source[17].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[17].type" Type="Str">VI</Property>
-				<Property Name="Source[18].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[18].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/User Events Metadata.ctl</Property>
-				<Property Name="Source[18].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[18].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/_Dependencies.lvproj</Property>
 				<Property Name="Source[2].newName" Type="Str">Dependencies.lvproj</Property>
@@ -121,7 +117,7 @@
 				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/dependencies.lvlib/LoadMouseLUT.vi</Property>
 				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[9].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">19</Property>
+				<Property Name="SourceCount" Type="Int">18</Property>
 			</Item>
 		</Item>
 	</Item>

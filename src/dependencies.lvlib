@@ -19,7 +19,7 @@
 	<Item Name="MouseLUT.vi" Type="VI" URL="../MouseLUT.vi"/>
 	<Item Name="MouseLUTSelector.ctl" Type="VI" URL="../MouseLUTSelector.ctl"/>
 	<Item Name="Path to Captures.vi" Type="VI" URL="../Path to Captures.vi"/>
-	<Item Name="Record Frame Mouse Metadata Argument--cluster.ctl" Type="VI" URL="../Record Frame Mouse Metadata Argument--cluster.ctl"/>
+	<Item Name="RecordFrameMouseMetadataArgument--cluster.ctl" Type="VI" URL="../RecordFrameMouseMetadataArgument--cluster.ctl"/>
 	<Item Name="RecordMode.ctl" Type="VI" URL="../RecordMode.ctl"/>
 	<Item Name="Replay Helper Loop.ctl" Type="VI" URL="../Replay Helper Loop.ctl"/>
 	<Item Name="Replay MH Loop.ctl" Type="VI" URL="../Replay MH Loop.ctl"/>
