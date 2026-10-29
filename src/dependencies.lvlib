@@ -14,6 +14,7 @@
 	<Item Name="LoadMouseLUT.vi" Type="VI" URL="../LoadMouseLUT.vi"/>
 	<Item Name="Mode.ctl" Type="VI" URL="../Mode.ctl"/>
 	<Item Name="MouseLUT.vi" Type="VI" URL="../MouseLUT.vi"/>
+	<Item Name="MouseLUTSelector.ctl" Type="VI" URL="../MouseLUTSelector.ctl"/>
 	<Item Name="Record Frame Mouse Metadata Argument--cluster.ctl" Type="VI" URL="../Record Frame Mouse Metadata Argument--cluster.ctl"/>
 	<Item Name="RecordMode.ctl" Type="VI" URL="../RecordMode.ctl"/>
 	<Item Name="Replay Loop Business Logic.vi" Type="VI" URL="../Replay Loop Business Logic.vi"/>
