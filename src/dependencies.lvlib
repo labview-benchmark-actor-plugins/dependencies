@@ -6,9 +6,18 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="global.vi" Type="VI" URL="../global.vi"/>
 	<Item Name="KeyboardAndMouseDataAcquisition.ctl" Type="VI" URL="../KeyboardAndMouseDataAcquisition.ctl"/>
+	<Item Name="KeyboardSerializer.vi" Type="VI" URL="../KeyboardSerializer.vi"/>
+	<Item Name="KeyPressLUT.vi" Type="VI" URL="../KeyPressLUT.vi"/>
 	<Item Name="KeyType.ctl" Type="VI" URL="../KeyType.ctl"/>
+	<Item Name="Load Replay Samples.vi" Type="VI" URL="../Load Replay Samples.vi"/>
+	<Item Name="LoadKeyboardLUT.vi" Type="VI" URL="../LoadKeyboardLUT.vi"/>
+	<Item Name="LoadMouseLUT.vi" Type="VI" URL="../LoadMouseLUT.vi"/>
 	<Item Name="Mode.ctl" Type="VI" URL="../Mode.ctl"/>
+	<Item Name="MouseLUT.vi" Type="VI" URL="../MouseLUT.vi"/>
 	<Item Name="Record Frame Mouse Metadata Argument--cluster.ctl" Type="VI" URL="../Record Frame Mouse Metadata Argument--cluster.ctl"/>
 	<Item Name="RecordMode.ctl" Type="VI" URL="../RecordMode.ctl"/>
+	<Item Name="Replay Loop Business Logic.vi" Type="VI" URL="../Replay Loop Business Logic.vi"/>
 	<Item Name="ReplayMode.ctl" Type="VI" URL="../ReplayMode.ctl"/>
+	<Item Name="SerializedKeyPress.ctl" Type="VI" URL="../SerializedKeyPress.ctl"/>
+	<Item Name="User Events Metadata.ctl" Type="VI" URL="../User Events Metadata.ctl"/>
 </Library>
